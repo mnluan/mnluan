@@ -1,4 +1,6 @@
 ## 👋 Hello World, my name is Luan!
+🎓🤓 I'm graduated from Universidade Federal Fluminense and I'm a Full-Stack developer
+
 ### How to reach me:
 - ✉️ [My e-mail](mailto:luann@id.uff.com)
 - 📫 [My LinkedIn](http://www.linkedin.com/in/mnluan)
