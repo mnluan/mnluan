@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnluan&hide=html&layout=compact&langs_count=5)](https://github.com/mnluan/github-readme-stats)
-
 <!--
 **mnluan/mnluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
