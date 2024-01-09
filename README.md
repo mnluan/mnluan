@@ -1,7 +1,6 @@
 ## 👋 Hello World, my name is Luan!
 
 ### How to reach me:
-- ✉️ [My e-mail](mailto:luann@id.uff.com)
 - 📫 [My LinkedIn](http://www.linkedin.com/in/mnluan)
 ### 🛠️ Tech Stack
 <p align="left">
